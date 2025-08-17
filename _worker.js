@@ -1,7 +1,7 @@
 
 // 部署完成后在网址后面加上这个，获取自建节点和机场聚合节点，/?token=auto或/auto或
 
-let mytoken = 'auto';
+let mytoken = 'fldz';
 let guestToken = 'test'; //可以随便取，或者uuid生成，https://1024tools.com/uuid
 let BotToken = '7873758705:AAH31C1IYKd-M7kdHKeledEzqRfe65sEiZI'; //可以为空，或者@BotFather中输入/start，/newbot，并关注机器人
 let ChatID = '7568172607'; //可以为空，或者@userinfobot中获取，/start
@@ -827,3 +827,4 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 	}
 
 }
+
