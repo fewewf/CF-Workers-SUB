@@ -1,4 +1,4 @@
-# ⚙ 自建汇聚订阅 CF-Workers-SUB
+# ⚙ 自建汇聚订阅 CF-Workers-SU
 
 ![自建汇聚订阅 CF-Workers-SUB](./sub.png)
 
